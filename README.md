@@ -1,2 +1,2 @@
 # libSchemes
-Modified Numerical Schemes
+Modified Numerical Schemes for OpenFOAM

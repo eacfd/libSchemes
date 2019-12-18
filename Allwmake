@@ -1,0 +1,9 @@
+#!/bin/sh
+
+wmake libso
+
+#
+#END-OF-FILE
+#
+
+

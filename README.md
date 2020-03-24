@@ -11,4 +11,4 @@ The library supports both OpenFOAM branches (v6.0 and v1912 or earlier).
 Full investigation of modified differencing schemes presents in paper Epikhin (2019). (See below)
 
 If you use this library in your research, please cite next articles:
-> Epikhin, A. (2019), Numerical Schemes and Hybrid Approach for the Simulation of Unsteady Turbulent Flows. Mathematical Models and Computer Simulations, Vol. 11, No. 6, pp. 1019–1031. DOI 10.1134/S2070048219060024
+> Epikhin A.S. Numerical Schemes and Hybrid Approach for the Simulation of Unsteady Turbulent Flows. Mathematical Models and Computer Simulations, Vol. 11, No. 6, pp. 1019–1031 (2019). https://doi.org/10.1134/S2070048219060024

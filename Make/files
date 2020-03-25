@@ -2,5 +2,5 @@ GammaM/GammaM.C
 filteredLinearM/filteredLinearM.C
 Koren/Koren.C
 
-LIB = $(FOAM_USER_LIBBIN)/libSchemes
+LIB = $(FOAM_LIBBIN)/libSchemes
 

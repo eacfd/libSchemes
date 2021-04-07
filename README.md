@@ -6,7 +6,7 @@
 - **filteredLinearM** is a differencing scheme for eddy-resolving approaches (DDES,IDDES,LES), based on filteredLinear scheme. In the modified filteredLinearM scheme, there are two free parameters α and β. The proposed filteredLinearM scheme at the values of the free parameters of α = 1 and β=[0.85,0.9] and Smagorinsky’s constant of Cs = 0.15 correctly describes the energy spectrum and is more stable than its original implementation. 
 - **Koren** is a differencing scheme (flux limiter) for sufficiently data.
 
-The library supports both OpenFOAM branches (v6.0 and v1912 or earlier).
+The library supports both OpenFOAM branches (v7.0 and v2012 or earlier).
 
 Full investigation of modified differencing schemes presents in paper Epikhin (2019). (See below)
 
